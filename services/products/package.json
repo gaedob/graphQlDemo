@@ -1,0 +1,10 @@
+{
+    "name": "products",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@apollo/federation": "latest",
+        "apollo-server": "latest"
+    }
+}

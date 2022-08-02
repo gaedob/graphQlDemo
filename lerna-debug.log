@@ -1,0 +1,12 @@
+0 silly argv {
+0 silly argv   _: [ 'bootstrap' ],
+0 silly argv   lernaVersion: '5.1.6',
+0 silly argv   '$0': 'node_modules\\lerna\\cli.js'
+0 silly argv }
+1 notice cli v5.1.6
+2 verbose rootPath C:\cmder_mini\graphServices\federationExamples\federation-demo
+3 info versioning independent
+4 error JSONError: Unexpected end of JSON input while parsing near "...ver\": \"latest\"\r\n    }" in services\reviews\package.json
+4 error     at parseJson (C:\cmder_mini\graphServices\federationExamples\federation-demo\node_modules\parse-json\index.js:29:21)
+4 error     at parse (C:\cmder_mini\graphServices\federationExamples\federation-demo\node_modules\load-json-file\index.js:15:9)
+4 error     at module.exports (C:\cmder_mini\graphServices\federationExamples\federation-demo\node_modules\load-json-file\index.js:18:47)
