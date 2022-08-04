@@ -75,7 +75,7 @@ const facturas = [{
     montoFactura: "57948",
     fechaVencimiento: "2020-10-03",
     fechaGeneracionFactura: "2020-09-07 ",
-    estadoFactura: "NO TIENE DEUDA",
+    estadoFactura: "NO TIENE DEUDAS",
     urlFactura: null
 }, {
     codigoCuenta: "13384166",
